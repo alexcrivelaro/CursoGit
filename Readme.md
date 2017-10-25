@@ -1,7 +1,7 @@
 Extensão de arquivo chamada markdown - MD
 # Repositório usado no curso de Git e Github.
 
-## Existem vários comando utilizados.
+## Existem vários comandos utilizados.
 
 ### Algusn detalhes são importates!
 ![Principais Tópicos](https://github.com/alexcrivelaro/CursoGit/raw/master/CursoGit/Curso_git.png)
