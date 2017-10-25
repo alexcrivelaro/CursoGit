@@ -1,4 +1,4 @@
-Extensão de arquivo chamada mark down - MD
+Extensão de arquivo chamada markdown - MD
 # Repositório usado no curso de Git e Github - Bruno Orlandi
 
 ![./Curso_git.png](Principais Tópicos)
